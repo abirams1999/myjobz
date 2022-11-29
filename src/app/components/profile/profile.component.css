@@ -1,0 +1,12 @@
+.border-left {
+    border-top-left-radius: 75px;
+    border-bottom-left-radius: 75px;
+}
+
+.border-right {
+    border-top-right-radius: 75px;
+    border-bottom-right-radius: 75px;
+}
+.col{
+    background-color: #E5EFF9;
+}
